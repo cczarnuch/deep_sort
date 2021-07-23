@@ -87,3 +87,8 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Misc
+MOT16/
+resources/
+.DS_Store
